@@ -1,0 +1,768 @@
+html {
+    background: linear-gradient(180deg, #D6B6FF 0%, #D3C9FE 75.94%, #FBFEB1 100%);
+}
+
+.desktop {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .desktop .overlap-wrapper {
+    
+    overflow: hidden;
+    width: 1925px;
+    height: 2682px;
+  }
+  
+  .desktop .overlap {
+    position: relative;
+    width: 1926px;
+    height: 2682px;
+    left: -1px;
+  }
+  
+  .desktop .rectangle {
+    position: absolute;
+    width: 412px;
+    height: 450px;
+    top: 0;
+    left: 1030px;
+    background: linear-gradient(180deg, rgba(248, 175, 166, 0.56) 0%, rgba(248, 175, 166, 0) 100%);
+    opacity: 0.2;
+  }
+  
+  .desktop .img {
+    position: absolute;
+    width: 1925px;
+    height: 2682px;
+    top: 0;
+    left: 1px;
+  }
+  
+  .desktop .vector {
+    position: absolute;
+    width: 375px;
+    height: 628px;
+    top: 1888px;
+    left: 71px;
+  }
+  
+  .desktop .vector-2 {
+    position: absolute;
+    width: 208px;
+    height: 1050px;
+    top: 890px;
+    left: 1px;
+  }
+  
+  .desktop .group {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 1669px;
+    left: 622px;
+  }
+  
+  .desktop .group-2 {
+    position: absolute;
+    width: 101px;
+    height: 101px;
+    top: -1px;
+    left: 0;
+  }
+  
+  .desktop .div {
+    position: absolute;
+    width: 256px;
+    height: 267px;
+    top: 1528px;
+    left: 1614px;
+    background-color: #fadcd936;
+  }
+  
+  .desktop .rectangle-2 {
+    position: absolute;
+    width: 275px;
+    height: 267px;
+    top: 1575px;
+    left: 598px;
+    background-color: #fadcd936;
+  }
+  
+  .desktop .group-wrapper {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 1662px;
+    left: 1350px;
+  }
+  
+  .desktop .fairycore {
+    position: absolute;
+    top: 50px;
+    left: 223px;
+    font-family: "Hahmlet", Helvetica;
+    font-weight: 700;
+    color: #140005;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .navbar {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 40px;
+    position: absolute;
+    top: 51px;
+    left: 756px;
+  }
+  
+  .desktop .text-wrapper {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Lato", Helvetica;
+    font-weight: 700;
+    color: #140005;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .desktop .overlap-group-wrapper {
+    position: absolute;
+    width: 148px;
+    height: 48px;
+    top: 33px;
+    left: 1590px;
+  }
+  
+  .desktop .overlap-group {
+    position: relative;
+    width: 146px;
+    height: 48px;
+  }
+  
+  .desktop .login {
+    position: absolute;
+    top: 15px;
+    left: 48px;
+    font-family: "Lato", Helvetica;
+    font-weight: 700;
+    color: #140005;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .desktop .rectangle-3 {
+    position: absolute;
+    width: 146px;
+    height: 48px;
+    top: 0;
+    left: 0;
+    border: 1px solid;
+    border-color: #140005;
+  }
+  
+  .desktop .nova-cole-o-shorts {
+    position: absolute;
+    top: 742px;
+    left: 668px;
+    font-family: "Frank Ruhl Libre", Helvetica;
+    font-weight: 700;
+    color: #140005;
+    font-size: 60px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .looks-casuais-para {
+    position: absolute;
+    top: 869px;
+    left: 795px;
+    font-family: "Lato", Helvetica;
+    font-weight: 400;
+    color: #140005;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 36px;
+    white-space: nowrap;
+  }
+  
+  .desktop .rectangle-4 {
+    position: absolute;
+    width: 1926px;
+    height: 720px;
+    top: 1492px;
+    left: 0;
+    background-color: #140005b0;
+  }
+  
+  .desktop .group-3 {
+    position: absolute;
+    width: 277px;
+    height: 427px;
+    top: 1599px;
+    left: 90px;
+  }
+  
+  .desktop .mais-vendidos {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Frank Ruhl Libre", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 60px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .overlap-2 {
+    position: absolute;
+    width: 212px;
+    height: 68px;
+    top: 359px;
+    left: 0;
+  }
+  
+  .desktop .veja-mais {
+    position: absolute;
+    top: 25px;
+    left: 66px;
+    font-family: "Lato", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .desktop .rectangle-5 {
+    position: absolute;
+    width: 212px;
+    height: 68px;
+    top: 0;
+    left: 0;
+    border: 1px solid;
+    border-color: #ffffff;
+  }
+  
+  .desktop .rectangle-6 {
+    position: absolute;
+    width: 375px;
+    height: 150px;
+    top: 2003px;
+    left: 446px;
+    background-color: #ffffff;
+  }
+  
+  .desktop .group-4 {
+    position: absolute;
+    width: 84px;
+    height: 12px;
+    top: 2026px;
+    left: 475px;
+  }
+  
+  .desktop .vestido-preto {
+    position: absolute;
+    top: 2058px;
+    left: 475px;
+    font-family: "Frank Ruhl Libre", Helvetica;
+    font-weight: 500;
+    color: #140005;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .group-5 {
+    position: absolute;
+    width: 107px;
+    height: 22px;
+    top: 2095px;
+    left: 478px;
+  }
+  
+  .desktop .text-wrapper-2 {
+    top: 0;
+    left: 0;
+    font-weight: 400;
+    color: #9b9b9b;
+    text-decoration: line-through;
+    position: absolute;
+    font-family: "Lato", Helvetica;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-3 {
+    top: 0;
+    left: 61px;
+    font-weight: 700;
+    color: #140005;
+    position: absolute;
+    font-family: "Lato", Helvetica;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .rectangle-7 {
+    position: absolute;
+    width: 375px;
+    height: 150px;
+    top: 2007px;
+    left: 956px;
+    background-color: #ffffff;
+  }
+  
+  .desktop .rectangle-8 {
+    position: absolute;
+    width: 375px;
+    height: 150px;
+    top: 1996px;
+    left: 1466px;
+    background-color: #ffffff;
+  }
+  
+  .desktop .group-6 {
+    position: absolute;
+    width: 173px;
+    height: 77px;
+    top: 2043px;
+    left: 998px;
+  }
+  
+  .desktop .iconsax-linear {
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    top: 0;
+    left: 0;
+  }
+  
+  .desktop .iconsax-linear-star {
+    left: 18px;
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    top: 0;
+  }
+  
+  .desktop .iconsax-linear-2 {
+    left: 36px;
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    top: 0;
+  }
+  
+  .desktop .iconsax-linear-3 {
+    left: 54px;
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    top: 0;
+  }
+  
+  .desktop .iconsax-linear-4 {
+    left: 72px;
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    top: 0;
+  }
+  
+  .desktop .text-wrapper-4 {
+    position: absolute;
+    top: 22px;
+    left: 1px;
+    font-family: "Frank Ruhl Libre", Helvetica;
+    font-weight: 500;
+    color: #140005;
+    font-size: 18px;
+    letter-spacing: 0;
+    
+  }
+  
+  .desktop .text-wrapper-5 {
+    position: absolute;
+    top: 55px;
+    left: 1px;
+    font-family: "Lato", Helvetica;
+    font-weight: 400;
+    color: #9b9b9b;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: line-through;
+  }
+  
+  .desktop .text-wrapper-6 {
+    top: 55px;
+    left: 62px;
+    font-weight: 700;
+    color: #140005;
+    position: absolute;
+    font-family: "Lato", Helvetica;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .group-7 {
+    position: absolute;
+    width: 132px;
+    height: 77px;
+    top: 2032px;
+    left: 1519px;
+  }
+  
+  .desktop .group-8 {
+    position: absolute;
+    width: 1914px;
+    height: 271px;
+    top: 654px;
+    left: 12px;
+  }
+  
+  .desktop .group-9 {
+    position: absolute;
+    width: 238px;
+    height: 65px;
+    top: 605px;
+    left: 134px;
+  }
+  
+  .desktop .cadastro-wrapper {
+    position: relative;
+    width: 236px;
+    height: 65px;
+    background-color: #140005;
+  }
+  
+  .desktop .cadastro {
+    position: absolute;
+    width: 90px;
+    top: 24px;
+    left: 73px;
+    font-family: "Lato", Helvetica;
+    font-weight: 700;
+    color: #f9f1f0;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .desktop .rectangle-9 {
+    position: absolute;
+    width: 412px;
+    height: 344px;
+    top: 571px;
+    left: 1px;
+  }
+  
+  .desktop .ellipse {
+    position: absolute;
+    width: 9px;
+    height: 3px;
+    top: 28px;
+    left: 1458px;
+    background-color: #f37878;
+    border-radius: 4.68px/1.46px;
+  }
+  
+  .desktop .fairycore-uma-tend {
+    position: absolute;
+    width: 375px;
+    top: 350px;
+    left: 223px;
+    font-family: "Hahmlet", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .whatsapp-image {
+    position: absolute;
+    width: 374px;
+    height: 481px;
+    top: 163px;
+    left: 1106px;
+    object-fit: cover;
+  }
+  
+  .desktop .vecteezy-black-star {
+    position: absolute;
+    width: 197px;
+    height: 182px;
+    top: 134px;
+    left: 857px;
+  }
+  
+  .desktop .vecteezy-black-star-2 {
+    position: absolute;
+    width: 130px;
+    height: 117px;
+    top: 528px;
+    left: 588px;
+  }
+  
+  .desktop .vecteezy-black-star-3 {
+    position: absolute;
+    width: 197px;
+    height: 182px;
+    top: 447px;
+    left: 1654px;
+    object-fit: cover;
+  }
+  
+  .desktop .p {
+    position: absolute;
+    width: 277px;
+    top: 214px;
+    left: 258px;
+    font-family: "Hahmlet", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .whatsapp-image-2 {
+    top: 1578px;
+    left: 446px;
+    position: absolute;
+    width: 375px;
+    height: 380px;
+    object-fit: cover;
+  }
+  
+  .desktop .whatsapp-image-3 {
+    position: absolute;
+    width: 375px;
+    height: 380px;
+    top: 1578px;
+    left: 956px;
+    object-fit: cover;
+  }
+  
+  .desktop .whatsapp-image-4 {
+    top: 960px;
+    left: 146px;
+    position: absolute;
+    width: 359px;
+    height: 400px;
+    object-fit: cover;
+  }
+  
+  .desktop .group-10 {
+    position: absolute;
+    width: 279px;
+    height: 59px;
+    top: 1253px;
+    left: 183px;
+  }
+  
+  .desktop .preto-basic-wrapper {
+    position: relative;
+    width: 277px;
+    height: 59px;
+    background-image: url(https://c.animaapp.com/kbSCJJmC/img/rectangle-160299.svg);
+    background-size: 100% 100%;
+  }
+  
+  .desktop .preto-basic {
+    position: absolute;
+    width: 121px;
+    top: 15px;
+    left: 78px;
+    font-family: "Lato", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 32.4px;
+    white-space: nowrap;
+  }
+  
+  .desktop .whatsapp-image-5 {
+    position: absolute;
+    width: 359px;
+    height: 400px;
+    top: 965px;
+    left: 795px;
+    object-fit: cover;
+  }
+  
+  .desktop .whatsapp-image-6 {
+    top: 965px;
+    left: 1410px;
+    position: absolute;
+    width: 359px;
+    height: 400px;
+    object-fit: cover;
+  }
+  
+  .desktop .rectangle-10 {
+    position: absolute;
+    width: 278px;
+    height: 60px;
+    top: 1258px;
+    left: 1450px;
+  }
+  
+  .desktop .group-11 {
+    position: absolute;
+    width: 280px;
+    height: 59px;
+    top: 1258px;
+    left: 827px;
+  }
+  
+  .desktop .azul-basic-wrapper {
+    position: relative;
+    width: 278px;
+    height: 59px;
+    background-color: #fffafa;
+  }
+  
+  .desktop .azul-basic {
+    position: absolute;
+    width: 213px;
+    top: 14px;
+    left: 38px;
+    font-family: "Lato", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 32.4px;
+    white-space: nowrap;
+  }
+  
+  .desktop .sei-la-basic {
+    position: absolute;
+    width: 219px;
+    top: 1268px;
+    left: 1480px;
+    font-family: "Lato", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 32.4px;
+    white-space: nowrap;
+  }
+  
+  .desktop .iconsax-linear-5 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 278px;
+    left: 1350px;
+  }
+  
+  .desktop .vector-3 {
+    position: absolute;
+    width: 30px;
+    height: 10px;
+    top: 29px;
+    left: 1800px;
+  }
+  
+  .desktop .text-wrapper-7 {
+    position: absolute;
+    width: 7px;
+    top: 84px;
+    left: 1828px;
+    font-family: "Frank Ruhl Libre", Helvetica;
+    font-weight: 700;
+    color: #140005;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .desktop .text-wrapper-8 {
+    position: absolute;
+    top: 2471px;
+    left: 702px;
+    font-family: "Lato", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .desktop .text-wrapper-9 {
+    position: absolute;
+    top: 2471px;
+    left: 946px;
+    font-family: "Lato", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .desktop .text-wrapper-10 {
+    position: absolute;
+    top: 2471px;
+    left: 1178px;
+    font-family: "Lato", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .desktop .copyright-fairycore {
+    position: absolute;
+    top: 2600px;
+    left: 810px;
+    font-family: "Lato", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 36px;
+    white-space: nowrap;
+  }
+  
+  .desktop .whatsapp-image-7 {
+    top: 1579px;
+    left: 1466px;
+    position: absolute;
+    width: 375px;
+    height: 380px;
+    object-fit: cover;
+  }
+  
